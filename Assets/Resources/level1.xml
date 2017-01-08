@@ -1,0 +1,31 @@
+<Script startingGold="150" startingLifes="15" >
+
+		<Unit type="zombie" health="30" speed="0.6" gold="10" spawn="1" timeToSpawn="4" animspeed="1.6" smart="false" />
+    <Unit type="zombie" health="30" speed="0.6" gold="10" spawn="2" timeToSpawn="20" animspeed="1.6" smart="false" />
+		<Unit type="zombie" health="30" speed="0.6" gold="10" spawn="1" timeToSpawn="24" animspeed="1.6" smart="false" />
+		<Unit type="zombie" health="30" speed="0.6" gold="10" spawn="2" timeToSpawn="24" animspeed="1.6" smart="false" />
+
+		<Unit type="zombie" health="30" speed="0.6" gold="10" spawn="1" timeToSpawn="27" animspeed="1.6" smart="false" />
+		<Unit type="zombie" health="30" speed="0.6" gold="10" spawn="2" timeToSpawn="27" animspeed="1.6" smart="false" />
+		<Unit type="zombie" health="15" speed="1.1" gold="10" spawn="1" timeToSpawn="28" animspeed="1.6" smart="false" />
+		<Unit type="zombie" health="15" speed="1.1" gold="10" spawn="2" timeToSpawn="28" animspeed="1.6" smart="false" />
+		<Unit type="zombie" health="15" speed="1.1" gold="10" spawn="1" timeToSpawn="29" animspeed="1.6" smart="false" />
+		<Unit type="zombie" health="15" speed="1.1" gold="10" spawn="2" timeToSpawn="29" animspeed="1.6" smart="false" />
+		
+
+  
+    <Unit type="zombie" health="30" speed="0.6" gold="10" spawn="1" timeToSpawn="41" animspeed="1.6" smart="false" />
+    <Unit type="zombie" health="30" speed="0.6" gold="10" spawn="2" timeToSpawn="41" animspeed="1.6" smart="false" />
+    <Unit type="zombie" health="30" speed="0.6" gold="10" spawn="1" timeToSpawn="44" animspeed="1.6" smart="false" />
+    <Unit type="zombie" health="30" speed="0.6" gold="10" spawn="2" timeToSpawn="44" animspeed="1.6" smart="false" />
+
+    <Unit type="zombie" health="30" speed="0.6" gold="10" spawn="1" timeToSpawn="47" animspeed="1.6" smart="false" />
+    <Unit type="zombie" health="30" speed="0.6" gold="10" spawn="2" timeToSpawn="47" animspeed="1.6" smart="false" />
+    <Unit type="zombie" health="15" speed="1.1" gold="10" spawn="1" timeToSpawn="48" animspeed="1.6" smart="false" />
+    <Unit type="zombie" health="15" speed="1.1" gold="10" spawn="2" timeToSpawn="48" animspeed="1.6" smart="false" />
+    <Unit type="zombie" health="15" speed="1.1" gold="10" spawn="1" timeToSpawn="49" animspeed="1.6" smart="false" />
+    <Unit type="zombie" health="15" speed="1.1" gold="10" spawn="2" timeToSpawn="49" animspeed="1.6" smart="false" />
+
+
+	
+</Script>

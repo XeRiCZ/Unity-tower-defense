@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A6A6FA87-3313-4199-48CC-DA65CA1D0E9B}") = "Simple_TowerDefense", "Assembly-CSharp-firstpass.csproj", "{C7B48F6C-48F3-0E00-0900-943950E5540E}"
+EndProject
+Project("{A6A6FA87-3313-4199-48CC-DA65CA1D0E9B}") = "Simple_TowerDefense", "Assembly-CSharp.csproj", "{87BA7299-2C9A-1965-89E5-F850FFAF2345}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7B48F6C-48F3-0E00-0900-943950E5540E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B48F6C-48F3-0E00-0900-943950E5540E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B48F6C-48F3-0E00-0900-943950E5540E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B48F6C-48F3-0E00-0900-943950E5540E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87BA7299-2C9A-1965-89E5-F850FFAF2345}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87BA7299-2C9A-1965-89E5-F850FFAF2345}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87BA7299-2C9A-1965-89E5-F850FFAF2345}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87BA7299-2C9A-1965-89E5-F850FFAF2345}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
